@@ -1,3 +1,8 @@
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![AI](https://img.shields.io/badge/Built%20for-AI%20Coding%20Agents-purple)
+![Production](https://img.shields.io/badge/Production-Ready-success)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+
 🏛️ AI Production Constitution
 
 «The definitive production-grade engineering constitution for AI coding agents.»
